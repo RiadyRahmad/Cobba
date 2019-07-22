@@ -7,7 +7,7 @@ import { Button, Jumbotron } from 'react-bootstrap';
 function App() {
   return (
     <div className="App">
-      
+        <Button></Button>
     </div>
   );
 }
